@@ -1,0 +1,6 @@
+- abrir o Google Drive
+- entrar na área de trabalho
+- clicar no arquivo que eu quero fazer backup e arrastaar ele
+- enqaunto eu estou arrastando, eu vou para o Google Drive
+- larguei o arquivo no Google Drive
+- esperar 5 segundos
